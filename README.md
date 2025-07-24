@@ -1,7 +1,7 @@
-Bienvenido a my code-world 👋 Soy Nicolás Valenzuela
+Hola! 👋 Mi nombre es Nicolás Valenzuela
 =============================================
 
-Architect & Designer
+Architect & Designer studying computer engineering
 --------------------
 
 * 🌍  I'm based in Litueche
