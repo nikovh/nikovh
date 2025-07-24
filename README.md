@@ -1,10 +1,10 @@
-Hi 👋 My name is Nicolás Valenzuela Hernández
+Bienvenido a my code-world 👋 Soy Nicolás Valenzuela
 =============================================
 
 Architect & Designer
 --------------------
 
-* 🌍  I'm based in Santiago, Chile
+* 🌍  I'm based in Litueche
 * ✉️  You can contact me at [nvh.develop@gmail.com](mailto:nvh.develop@gmail.com)
 * 🚀  I'm currently working on [nvh develop](http://nvh.dev)
 * 🧠  I'm learning ML
